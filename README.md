@@ -9,9 +9,9 @@ This project demonstrates face detection using OpenCV's Haar Cascades. The goal 
 - Utilize OpenCV’s Haar Cascade classifier to identify faces.
 
 # Technologies Used
-Python: The primary programming language.
-OpenCV: For implementing face detection using Haar Cascades.
-OpenCV draw rectangle: Draw detection rectangle on detected face.
+- Python: The primary programming language.
+- OpenCV: For implementing face detection using Haar Cascades.
+- OpenCV draw rectangle: Draw detection rectangle on detected face.
 
 # Contributing
 Feel free to fork the repository, make changes, and create a pull request. Contributions are always welcome!
